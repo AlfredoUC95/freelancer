@@ -6,8 +6,10 @@ body{
 }
 h1{
     text-align: center;
+    color: blue;
     font-size: 3.8rem;
 }
 span{
     font-size: 2rem;
+    color: red;
 }
